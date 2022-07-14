@@ -138,7 +138,6 @@ for(let movie of movies){
 //  31 store the title of all the movies in an array named `allTitles`
 let allTitles=[]
 for (let movie of movies){
-  
     allTitles.push(movie.title)
   }
   console.log(allTitles)
